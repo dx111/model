@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: Model Zoo
+theme:
+  name: material
+  palette:
+    scheme: preference
+    primary: teal
+    accent: amber
+  icon:
+    repo: fontawesome/brands/github-alt
+  logo: https://fastapi.tiangolo.com/img/icon-white.svg
+  favicon: https://fastapi.tiangolo.com/img/favicon.png
+  language: zh
+repo_name: tiangolo/fastapi
+repo_url: https://github.com/tiangolo/fastapi
+edit_uri: ''
